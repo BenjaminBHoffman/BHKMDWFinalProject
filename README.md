@@ -22,4 +22,4 @@
 <br> Fire Incidents in each of the neighborhoods to find which one has the lowest amount
 
 ---
-This repository has a **PeronalNotebooks** folder that contains the individual work for each sub-metric, the **data** folder that holds all of the CSV files used, and the______________________
+This repository has a **PeronalNotebooks** folder that contains the individual work for each sub-metric, the **data** folder that holds all of the CSV files used, and the **DoneFinalProject** Folder contains the final project will all the work together.
